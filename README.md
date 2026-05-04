@@ -14,7 +14,7 @@ javac -version
 java -version
 ```
 
-Se não tiver, baixe em: https://adoptium.net/
+Se não tiver, baixe em: https://adoptium.net/](https://www.oracle.com/br/java/technologies/java-se-glance.html
 
 ## Estrutura
 
