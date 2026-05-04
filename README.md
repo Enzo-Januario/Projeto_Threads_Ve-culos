@@ -42,7 +42,7 @@ chmod +x *.sh
 
 **Windows:**
 ```
-compilar.bat
+.\compilar.bat
 ```
 
 ### 2. Rodar (tudo localmente)
