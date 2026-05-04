@@ -52,7 +52,7 @@ Você precisa de **5 terminais** abertos, **nesta ordem**:
 **Terminal 1 - Fábrica (primeiro):**
 ```
 ./rodar_fabrica.sh         (Linux/Mac)
-rodar_fabrica.bat          (Windows)
+.\rodar_fabrica.bat          (Windows)
 ```
 Espere aparecer: "Pressione Ctrl+C para encerrar."
 
@@ -62,15 +62,15 @@ Espere aparecer: "Pressione Ctrl+C para encerrar."
 ./rodar_loja.sh 2
 ./rodar_loja.sh 3
 
-rodar_loja.bat 1           (Windows)
-rodar_loja.bat 2
-rodar_loja.bat 3
+.\rodar_loja.bat 1           (Windows)
+.\rodar_loja.bat 2
+.\rodar_loja.bat 3
 ```
 
 **Terminal 5 - Clientes (por último):**
 ```
 ./rodar_clientes.sh        (Linux/Mac)
-rodar_clientes.bat         (Windows)
+.\rodar_clientes.bat         (Windows)
 ```
 
 ### 3. Rodar em máquinas diferentes (demonstra distribuição)
